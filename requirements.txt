@@ -1,0 +1,7 @@
+uvicorn
+torch
+torchvision
+pillow
+fastapi
+ultralytics
+numpy
